@@ -67,9 +67,9 @@ Entregas:
 
   TP 1 Vectores: Producto vectorial, norma de un vector y diferencia. Calculo del area de un Triangulo
   
-  TP 2 y 3: Tetris. Creacion del juego y sus reglas. Uso de la biblioteca Gamelib (Diego Essaya) para
+  TP 2 y 3: Tetris. Creacion del juego y sus reglas. Uso de la biblioteca Gamelib (Diego Essaya: https://github.com/dessaya/python-gamelib) para
             crear la implementacion grafica
   
-  TP 4: Bazas. Juego de Cartas, creacion del juego y sus reglas. Uso de la biblioteca Gamelib (Diego Essaya)
-        para la implementacion y grafica.
+  TP 4: Bazas. Juego de Cartas, creacion del juego y sus reglas. Uso de la biblioteca Gamelib (Diego Essaya: https://github.com/dessaya/python-gamelib)
+        para la implementacion grafica.
   
